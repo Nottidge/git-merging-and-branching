@@ -1,4 +1,4 @@
 conflict 1 fixed conflict
-feature1
+feature2
 commit 2
 commit 3
